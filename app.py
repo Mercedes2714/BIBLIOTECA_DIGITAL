@@ -241,19 +241,19 @@ if __name__ == "__main__":
     print("="*60)
     
     # 1. Crear tablas
-    #init_db()
+    init_db()
     
     # 2. Insertar datos
-    #insertar_datos()
+    insertar_datos()
     
     # 3. Consultar datos
-    #consultar_datos()
+    consultar_datos()
     
     # 4. Actualizar datos
-    #actualizar_datos()
+    actualizar_datos()
     
     # 5. Eliminar datos (con cascade)
-    #eliminar_datos()
+    eliminar_datos()
     
     # 6. Verificar eliminación
     verificar_eliminacion()
